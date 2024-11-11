@@ -1,4 +1,4 @@
-# EX-7-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# EX-8-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
 
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
@@ -10,6 +10,7 @@
   4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## PROGRAM: 
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -61,6 +62,7 @@ int main()
 
     return 0;
 }
+```
 ## OUTPUT:
 ![Screenshot (200)](https://github.com/user-attachments/assets/cfb471fe-2167-4a15-ac9e-d59c67866ac8)
 
