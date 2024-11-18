@@ -44,6 +44,7 @@ void printASCII(char *ciphertext)
     printf("\n");
 }
 
+
 int main() 
 {
     char plaintext[100], key[100], ciphertext[100], decryptedText[100];
